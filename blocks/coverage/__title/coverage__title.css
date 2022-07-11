@@ -1,0 +1,9 @@
+.coverage__title {
+  color: var(--colorWhite);
+}
+
+@media screen and (max-width: 1116px) {
+  .coverage__title {
+    width: 80%;
+  }
+}

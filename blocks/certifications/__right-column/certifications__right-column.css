@@ -1,0 +1,18 @@
+.certifications__right-column {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 600px;
+          flex: 0 1 600px;
+  margin: 0;
+  color: var(--colorAuroMetalSaurus);
+  letter-spacing: 1.85px;
+  font-size: 18px;
+}
+
+@media screen and (max-width: 1023px) {
+  .certifications__right-column {
+    padding-top: 2px;  
+    line-height: 1.79;
+    font-size: 18px;
+    letter-spacing: 0.88px;
+  }
+}
