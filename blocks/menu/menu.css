@@ -1,0 +1,11 @@
+.menu {
+  background-color: transparent;
+  box-sizing: border-box;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: 3;
+}
